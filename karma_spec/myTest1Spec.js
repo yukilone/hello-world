@@ -2,7 +2,7 @@ describe('createReservation(passenger, flight)', function() {
   var testPassenger = null,
   testFlight = null;
 
-  
+
 
   beforeEach(function() {
       testPassenger = {
